@@ -1,5 +1,10 @@
 # DevOps syntax for all Programming Languages and Developer Tools with Sublime Text - Text Editing
 
+We recommend you to visit Docker Roadmaps in order to find the learning path for your career in the future
+
+* [DevOps Roadmap](https://github.com/nholuongut/all-roadmaps/blob/main/public/roadmaps/devops.png)
+
+
 ## Installation
 
 To make changes to these packages and test them locally, fork this repository. Then symlink the changed packages into your [`Packages`](https://www.sublimetext.com/docs/packages.html) folder. (Replace `Python` in the following commands with the name of the syntax to install.)
@@ -72,6 +77,7 @@ I'm are always open to your feedback.  Please contact as bellow information:
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 * [Email Address](luongutnho@hotmail.com) 
 
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
